@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <title>Tufte CSS</title>
+    <link rel="stylesheet" href="tufte_rs.css"/>
+    <link rel="stylesheet" href="latex.css"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  </head>
+
+
+<ul class="nav-ul">
+  <li style="float:left"> <h2> lucid luminescence </h2> <span style="display:block; margin-top:-15px;"> <small> the science of firefly swarms </small> </span>  </li>
+  <li style="float:right"><a class="navtab" href="further">further</a></li>
+  <li style="float:right"><a class="navtab" href="about">about</a></li>
+  <li style="float:right"><a class="navtab" href="stories">stories</a></li>
+  <li style="float:right"><a class="navtab" href="chase">chase</a></li>
+  <li style="float:right"><a class="navtab" href="trajectories">trajectories</a></li>
+  <li style="float:right"><a class="navtab" href="patterns">patterns</a></li>
+  <li style="float:right"><a class="navtab" href="gateway">gateway</a></li>
+</ul>
+
+<body> 
+<article> 
+<h1 id="trajectories"> trajectories </h1>
+<p class="subtitle">dots and curves in the dark</p>
+
+  <section> 
+  <p>
+    <label for="mn-figure-1" class="margin-toggle">&#8853;</label><input type="checkbox" id="mn-figure-1" class="margin-toggle"/><span class="marginnote"><img src="img/blueghost2_crop.jpg" alt="blue ghost trajectory" />
+    Blue Ghost (<i>Phausis reticulata</i>) lingering. <br> RS, Great Smoky Mountains National Park </span>
+Firefly flight paths remain mysterious.
+This is primarily because they move in the dark where we can't see and follow them.
+Of course, their luminous streaks offer a glimpse at where they are and how they move for a fraction of a second, but they quickly vanish into obscurity.
+And that might be exactly the point: by emitting brief flashes, they convey enough information for their mating dialogues, but too little for predators to follow and catch them.
+</p>
+<p>
+  Most fireflies produce single flashes every few seconds.
+  Some of them produce flash "phrases", which are regular sequences of several flashes in a row with a constant short interval between them.
+  Finally, a handful of others will glow continuously for 10s to a minute.
+  But even these long curves can be difficult to comprehend, since in the dark our perception of distances is impaired by the lack of contextual landmarks.
+</p>
+<p>
+  Some long exposure photographs, which capture the background as well as many flashes in a row, can give some idea about how fireflies move.
+  But the most accurate technique is to record fireflies with two cameras, which provides a 3D information of the location and shape of streaks.
+  The long glowing trajectories can then be completely reconstructed.
+  For the flash phrases, it is possible to extrapolate between successive flashes to form a longer trajectory.
+  But for single-flashers, we can only look at separate streaks -- which sometimes have an interesting shape on their own -- since we can't know where they go after a few seconds...
+</p>
+</section>
+
+<section>
+  <h3> Trajectory gallery... </h3>
+  <figure>
+    <label for="mn-exports-imports" class="margin-toggle">&#8853;</label><input type="checkbox" id="mn-exports-imports" class="margin-toggle"/>
+    <span class="marginnote"> Trajectories of <i> Photinus carolinus </i> fireflies. These fireflies are known for making 5 to 7 flashes in a row. <br> RS, Great Smocky Mountains National Park </span>
+    <img src="img/photinuscarolinustrajectories.png" alt="photinus carolinus trajectories" />
+  </figure>
+</section>
+
+
+<section>
+  <figure class="fullwidth">
+    <img src="img/blueghost1.JPG" alt="blue ghost" />
+  </figure>
+</section>
+
+<footer> <small>&copy; Copyright 2022, Rapha&euml;l Sarfati</small> </footer>
+
+</body>
+</html>
