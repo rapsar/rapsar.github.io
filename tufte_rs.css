@@ -459,7 +459,15 @@ label.margin-toggle:not(.sidenote-number) {
 
     .sidenote,
     .marginnote {
-        display: none;
+        /*display: none;*/
+        display: block;
+        float: left;
+        left: 1rem;
+        clear: both;
+        width: 95%;
+        margin: 1rem 2.5%;
+        vertical-align: baseline;
+        position: relative;
     }
 
     .margin-toggle:checked + .sidenote,
