@@ -27,6 +27,15 @@
   
    <body>
       <section>
+      <figure>
+            <label for="mn-congaree-dark" class="margin-toggle">&#8853;</label><input type="checkbox" id="mn-congaree-dark" class="margin-toggle"/>
+            <span class="marginnote"> 
+               Congaree National Park in May 2020. 
+               <br> Photo by Mac Stone
+            </span>
+            <img src="img/MacStone-1919.jpg" alt="congaree may 2020" />
+         </figure>
+         
         <p>
           Congaree National Park, in South Carolina, doesn’t conform to the typical picture that comes to mind when you think of a National Park. 
           It doesn’t have any of the expansive views, rugged terrain or pristine waters that define traditional park imagery. 
