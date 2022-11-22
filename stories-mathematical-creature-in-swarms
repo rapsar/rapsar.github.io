@@ -68,65 +68,122 @@
         <p> <center> * * * <\center> <\p>
       
         <p>
-          Snakes, yellow flies, and standing brown water are not considered the most beloved offerings of nature, and indeed Congaree welcomes only about 150,000 visitors per year, compared to the more than 12 millions who swarm the Great Smoky Mountains, one state over. 
-          But in recent years, an unusual influx of visitors in late May took the park’s staff by surprise, to the point that special access restrictions had to be put in place. 
-          The reason for this unexpected pilgrimage: increased media coverage for the singular display of synchronous fireflies of the <i>Photuris frontalis</i> species. 
-          This spectacle was of course the reason for my own visit request.
+         Twenty years ago, while digging deeper into the equations forming the framework to understand collective synchrony, Battogtokh and Kuramoto noticed something peculiar. 
+         Under specific circumstances, their mathematical solutions would describe a system characterized by the coexistence of synchronous and incoherent clusters within the same ensemble of oscillators. 
+         This was quite surprising because they were working in the abstract situation of all oscillators being perfectly identical and similarly connected to their neighbors --- an idealization that only mathematicians can embrace shamelessly.
+         Such spontaneous breaking of underlying symmetry is something that typically bothers physicists. We are fond of the idea that some type of order in the fabric of a system should translate into a similar order in its large-scale dynamics.
+         If oscillators are indistinguishable, they should either all get in sync, or all remain chaotic --- but not show differentiated behaviors. 
+         That's the belief.
+         So the two pioneers realized that the creature they had unearthed was worth looking into in more details.
         </p>
         
         <p>
-          In May 2020, however, the global pandemic had the extraordinary effect of closing down some parks to the public completely, and Congaree was among them. 
-          But the park’s administration, and its Chief Scientist Dr David Shelley in particular, were eager to accommodate enthusiastic researchers, such as myself and my field partner Julie. 
-          So much so that, after an initial first contact and a quick tour of the premises, we were given the keys to the park, literally. 
-          To be precise, we were given the code to the paddle lock that kept the gate closed, and by gate I mean a modest 20-foot chain attached between two posts. 
-          Still, who can boast to have ever been granted exclusive access to no less than a National Park?
+         In the following years, it piqued the curiosity of many, including Abrams and Strogatz at Cornell University, who soon considered it was time to baptize the demon. 
+         They opted for "chimera", possibly inspired by their whereabouts in the town of Ithaca, although the one in New York State, not Odysseus' birthplace in the Ionian Islands.
+         Originally, the Chimera is a mythical creature popping up in Homeric epics, a hybrid made of parts of incongruous animals --- hence the inspiration for multifaceted states.
         </p>
         
         <p>
-          Maybe "exclusive" is a bit grandiose. 
-          On some evenings, a handful of photographers, journalists, and volunteers also populated the forest, although I’m not sure they had the same unlimited accreditation as ours. 
-          Nevertheless, on most nights Julie and I were the only human beings within park boundaries. 
-          In my book, that is no small honor.
+         At first, chimeras were rare even in mathematical models, often requiring a very specific set of parameters to materialize. 
+         Over time, people learnt where to look, and began to uncover them in many variations of these models, progressively assembling a broad teratology of chimeras of different forms and behaviors: "breathing", "twisted", "blinking", "multiheaded", and many other eerie epithets.
+         But even there, chimeras continued to hide in the darkened corners of the parameter space, and as such it remained mysterious whether they were even possible in the physical world --- or merely doomed to remain a mathematical myth like their legendary counterparts?
         </p>
         
         <p>
-          But being all alone in a National Park, at night, is an intimidating thing, especially at a place like Congaree crawling with life and enveloped in darkness. 
-          On top of the spectacular light show that I was enjoying and studying, there was a formidable sound background, made of the very loud chorus of tree frogs and scattered by barn owls hoots and occasional creepy squawks from who-knows-what. 
-          And when silence resumes, the atmosphere was even more eerie.
-          What if I were to step on a snaked while crossing the woods in the sparkling night?
-          Could I get lost, swallowed by the obscurity? 
-          Was the ranger serious about alligators?    
+         Experimental physicists considered the puzzle, resolved to take the bull by the horns and courageously entered the lion's den.
+         It took a decade, but eventually a few carefully-designed experimental setups yielded the elusive chimeras.
+         Most involved complex setups of chemical, optical, or electronic oscillators with specifically tuned interactions. 
+         One famed realization, notable for its simplicity and concreteness, involved two plates loaded with metronomes and connected by a spring. 
+         It's been known for a long time that mechanical coupling between metronomes quickly pushes them to synchrony. In this realization, the metronomes of each set are strongly coupled between them, resulting in synchrony, but only weakly to the other set. 
+         As a result, some are synchronized while others remain free-floating.   
+        </p>
+         
+        <p>
+         Such a situation, admittedly, is rather rare in the real world away from human intervention. 
+         And while synchrony is rather ubiquitous in our universe, at various spatial and temporal scales, the question kept emerging:
+         Could mathematical chimeras also exist within the natural world?        
+        </p>
+        
+        <p>
+         It seems like they could. 
+         And it would take a tiny luminescent insect to shed light on them.
+        </p>
+        
+        <p> <center> * * * <\center> <\p>
+        
+        <p>
+         Like the Chimera, fireflies are ambivalent beings, dwelling in darkness all the while piercing through it with their fleeting sparks.
         </p>
          
          <p>
-            The most unsettling was still to come. 
-            As it happens a few times every year, heavy rains on the Smokies had found their way down to the plains and swollen the Congaree River. 
-            With merely a few feet of elevation gain over a couple miles, the still water flooded the park almost to the edge of the bluff and our experimental site. 
-            As a consequence, the large population of wild hogs, sturdy and nonchalant, had been forced to retreat as well to the edge of the forest, so much so that we found ourselves sharing the leftovers of the dry land. 
-            They are usually peaceful individuals, though not the most delicate nor alluring — to human taste. 
-            Nonetheless, a close encounter, or worse, a full-blown head-on collision, could have led to a misunderstanding, and in the eventuality of an altercation, I was unsure I would get the upper hand. 
-            I had been told they have poor vision, and so do I, hence bringing an accidental encounter winthin the realm of possibility.         
+          Four years ago, as a postdoc in the Peleg Lab at the University of Colorado, I undertook a project to decipher the inner workings of firefly swarms.
+          Our approach builds on the foundations of a little-known niche within the behemoth of modern physics: animal collective behavior.
+          Simply put, the overarching objective is to reveal and characterize spontaneous and unsupervised large-scale patterns in the dynamics of groups of animals, such as the murmurations of bird flocks.
+          From there, one can attempt to relate those dynamics to the network of interactions between individuals, much like statistical mechanics connects macroscopic quantities (temperature, pressure, etc.) to the microscopic details of matter.
          </p>
-        
-        <p>
-          It did not happen. 
-          Yet, I could often hear their nearby trampling and snorting. 
-          My senses on high alert, I would clap my hands and announce a loud "hello". 
-          Eventually, I think we simply got used to each other. 
-          Both indifferent neighbors, searching for meaning in the darkness of the woods.
-        </p>
-        
-        <p>
-          Despite their limited sight, I often wondered what they might think of fireflies. 
-          Did they see them? 
-          Did they chase them? 
-          Did they appreciate them?
-          <!--Much remains unknown about how different species perceive and interact with one another... --> 
-        </p>
          
          <p>
-            Big or small, one is never alone in nature.
+          Little was then known about the collective patterns of light that emerge from a multitude of fireflies in interaction.
+          Except for one peculiar phenomenon which had animated scientists for decades and inspired the first mathematical developments which would later lead to the discovery of chimeras: synchronous fireflies. It seemed like a good place to start.
          </p>
+         
+         <p>
+         The first summer we headed to the Smoky Mountains to film \textit{Photinus carolinus}, a species popularized by the charismatic Lynn Faust. 
+While the light show was spectacular, it was also surprising that this type of synchrony seemed resolutely at odds with the outcome of the mathematical models that they had inspired.
+Instead of converging toward a common tempo over time from an initial cacophony, they burst into thousands of flashes already in sync for a few seconds, before abruptly going dark altogether and repeating the cycle again and again.
+         </p>
+         
+         <p>
+         While this was fascinating, we were still hoping to find a species that would conform more closely to what models described. Advised by a few fireflyers extraordinaire, we headed next to Congaree National Park to investigate \textit{Photuris frontalis}.
+It was in May of 2020 and we had the park to ourselves, for it was closed to the public.
+         </p>
+         
+         <p>
+         My colleague Julie and I started setting up our cameras, and when the show started in the gentle twilight we realized we had found what we had been seeking: a very rhythmic, precise synchrony, apparently as clean and elegant as those produced by equations.
+         </p>
+         
+         <p>
+         This was a satisfying experience, yet one that left me pensive: I was worried that this pattern would be even too regular to infer anything valuable from it. See, physicists learn about things by looking at their natural fluctuations (or by inducing perturbations). In this case, there seemed to be little revelatory variability.
+         </p>
+         
+         <p>
+         Synchrony manifests itself in the data in the form of sharp spikes in the graph of the number of flashes as a function of time, which indicate that many flashes occur at the same instant. When they don't, the trace looks irregular, like scribbles.
+When I plotted the time series of the number of flashes, I saw a comb-like pattern so flawless that it could have emanated from Christmas lights.
+         </p>
+         
+         <p>
+         The chimera was hiding in plain sight, but I hadn't uncovered it yet. 
+         I had to spend more time crunching the numbers to finally encounter it.
+         It was there, in-between the spikes of the light chorus: at times a few shorter spikes indicated smaller factions in sync amongst themselves but not with the main group.
+         These became known as the "characters", both for their dramatic temperament and to round up the alliteration: 
+\begin{center}
+    chimera = chorus + characters.
+\end{center}
+         </p>
+         
+         <p>
+         Self-organized like the ancient Greek theater, the chorus sets the background while characters create the action. Like in the antique plays, the two groups are spatially intertwined, roaming the same stage in their performing act, as we later revealed from the three-dimensional reconstruction of the swarms.
+Despite the chasm in their temporal dynamics, their spatial dynamics appear almost indistinguishable: 
+Characters don't seem to follow one another, nor to attract one another, more so than they follow or attract members of the chorus.
+         </p>
+         
+         <p>
+         Perhaps this is unexpected, and it might raise more questions than it answers. 
+Do characters consciously decide to break apart, maybe to signal their emancipation; or do they spontaneously find themselves off-beat? 
+How is this division initiated?
+Could mathematical insights elucidate some of the social dynamics at play among these luminous beetles?
+         </p>
+         
+         <p>
+         Unlike abstract oscillators, fireflies are cognitive beings;  they incorporate complex sensory information, process it through their decision-making pipeline, and then they might flash.
+They are also constantly in motion, forming and breaking visual communication with their peers.
+All these things create intricacies which are far from inscribed in the fabric of streamlined mathematical models.
+         </p>
+         
+         <p>
+         In the quiet obscurity, fireflies may have opened up a Pandora's box of new conundrums; for mathematicians and physicists, a trove of new chimeras to chase.
+         </p>
+         
       
       </section>
      
